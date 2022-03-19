@@ -1,3 +1,4 @@
 # Calculator
 
-##A calculator as a mobile app
+##A calculator as a mobile app using java and mXparser
+
